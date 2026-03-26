@@ -71,24 +71,6 @@ The application demonstrates strong capabilities in building **real-time, scalab
 
 ---
 
-## 📂 Project Structure
-backend/
-  ├── controllers/
-  ├── models/
-  ├── routes/
-  ├── config/
-  └── server.js
-
-frontend/
-  ├── components/
-  ├── pages/
-  ├── context/
-  └── App.js
-
-screenshots/
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
